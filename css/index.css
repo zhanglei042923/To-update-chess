@@ -1,0 +1,17 @@
+body{
+	background-image: url(../images/ttt.jpg);
+	background-size: cover;
+}
+#play{
+  width: 200px;
+  height: 50px;
+  background-color: rgba(0,0,0,0.5);
+  text-align: center;
+  line-height: 50px;
+  position: absolute;
+  bottom: 50px;
+  left: 40%;
+  color: white;
+  font-size: 2em;
+  border-radius: 10px;
+}
