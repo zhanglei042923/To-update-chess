@@ -183,7 +183,7 @@
     }
     var play=document.getElementById('play');
     play.onclick=function(){
-      location.assign('index.html')
+      location.assign('login.html')
    }
     
 })();
